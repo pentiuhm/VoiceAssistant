@@ -1,4 +1,4 @@
-# Introduction
+# [Introduction](https://www.crio.do/blog/build-a-voice-assistant/)
 
 We are all familiar with Google Assistant, Amazon Alexa, Cortana and Siri and most of us are amazed how they are able to reply to us with a piece of information or perform some action based on what we speak to them. How about building one yourself?
 
